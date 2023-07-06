@@ -23,17 +23,21 @@
         "symfony/flex": "^1.17|^2",
         "symfony/form": "5.4.*",
         "symfony/framework-bundle": "5.4.*",
+        "symfony/google-mailer": "5.4.*",
         "symfony/mailer": "5.4.*",
         "symfony/property-access": "5.4.*",
         "symfony/property-info": "5.4.*",
         "symfony/runtime": "5.4.*",
         "symfony/security-bundle": "5.4.*",
         "symfony/security-csrf": "5.4.*",
+        "symfony/sendgrid-mailer": "5.4.*",
         "symfony/serializer": "5.4.*",
         "symfony/twig-bundle": "5.4.*",
         "symfony/validator": "5.4.*",
         "symfony/yaml": "5.4.*",
-        "symfonycasts/verify-email-bundle": "^1.13"
+        "symfonycasts/verify-email-bundle": "^1.13",
+        "twig/cssinliner-extra": "^3.6",
+        "twig/extra-bundle": "^3.6"
     },
     "config": {
         "allow-plugins": {
